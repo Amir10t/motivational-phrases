@@ -1,5 +1,8 @@
 * {
-    font-family: "Vazir";
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
 }
 div {
     margin-top: 20em;
